@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there I'm Rifqi 👋
 
 <!--
 **ahmdrifqi16/ahmdrifqi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRwaTZjbGgwNWdmNjUxMWhzZ200ZG0wdXRzOTZyeTB1cmVjNWwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
 Here are some ideas to get you started:
 
