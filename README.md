@@ -5,6 +5,8 @@
 
 ![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRwaTZjbGgwNWdmNjUxMWhzZ200ZG0wdXRzOTZyeTB1cmVjNWwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
+![profi](img/github-header-image.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ahmad Rifqi and I'm a , from Indonesia</h2>
 
 ###
 
