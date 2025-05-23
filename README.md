@@ -2,9 +2,6 @@
 
 ![Ahmad Rifqi](img/profile%20image.png)
 
-<!--
-
-
 ![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRwaTZjbGgwNWdmNjUxMWhzZ200ZG0wdXRzOTZyeTB1cmVjNWwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
 ###
