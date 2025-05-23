@@ -1,21 +1,11 @@
 ## Hi there I'm Rifqi 👋
 
-<div align=center>![Ahmad Rifqi](img/profile%20image.png)</div>
+![Ahmad Rifqi](img/profile%20image.png)
 
 <!--
 
 
 ![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRwaTZjbGgwNWdmNjUxMWhzZ200ZG0wdXRzOTZyeTB1cmVjNWwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
-
-
-
-<h2 align="left">Hi 👋! My name is Ahmad Rifqi and I'm a , from Indonesia</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
