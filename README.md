@@ -45,14 +45,14 @@
 
 ![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRwaTZjbGgwNWdmNjUxMWhzZ200ZG0wdXRzOTZyeTB1cmVjNWwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
-###
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmdrifqi16/ahmdrifqi16/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmdrifqi16/ahmdrifqi16/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmdrifqi16/ahmdrifqi16/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/ahmdrifqi16/ahmdrifqi16/output/snake.svg" alt="Snake animation" />
 
 ###
