@@ -1,6 +1,6 @@
 ## Hi there I'm Rifqi 👋
 
-![Ahmad Rifqi](img/github-header-image.png)
+![Ahmad Rifqi](img/profile%20image.png)
 
 <!--
 
