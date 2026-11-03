@@ -69,31 +69,31 @@ I enjoy turning real-world needs into clean, reliable web applications, from dat
 
 ## 🚀 Featured Projects
 
-<!-- GANTI: ganti NAMA-REPO-1 s/d NAMA-REPO-4 dengan nama repository publik milikmu -->
+<!-- GANTI: isi nama repo, deskripsi, dan teknologi untuk tiap proyek. Hapus <td> yang tidak dipakai. -->
 <div align="center">
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/ahmdrifqi16/NAMA-REPO-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdrifqi16&repo=NAMA-REPO-1&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="Project 1" />
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ahmdrifqi16/NAMA-REPO-1">NAMA-REPO-1</a></h4>
+      <p>GANTI: deskripsi singkat proyek (1 kalimat).</p>
+      <img src="https://img.shields.io/badge/GANTI-teknologi-161B22?style=flat-square" alt="Teknologi" />
     </td>
-    <td>
-      <a href="https://github.com/ahmdrifqi16/NAMA-REPO-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdrifqi16&repo=NAMA-REPO-2&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="Project 2" />
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ahmdrifqi16/NAMA-REPO-2">NAMA-REPO-2</a></h4>
+      <p>GANTI: deskripsi singkat proyek (1 kalimat).</p>
+      <img src="https://img.shields.io/badge/GANTI-teknologi-161B22?style=flat-square" alt="Teknologi" />
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/ahmdrifqi16/NAMA-REPO-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdrifqi16&repo=NAMA-REPO-3&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="Project 3" />
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ahmdrifqi16/NAMA-REPO-3">NAMA-REPO-3</a></h4>
+      <p>GANTI: deskripsi singkat proyek (1 kalimat).</p>
+      <img src="https://img.shields.io/badge/GANTI-teknologi-161B22?style=flat-square" alt="Teknologi" />
     </td>
-    <td>
-      <a href="https://github.com/ahmdrifqi16/NAMA-REPO-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdrifqi16&repo=NAMA-REPO-4&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="Project 4" />
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ahmdrifqi16/NAMA-REPO-4">NAMA-REPO-4</a></h4>
+      <p>GANTI: deskripsi singkat proyek (1 kalimat).</p>
+      <img src="https://img.shields.io/badge/GANTI-teknologi-161B22?style=flat-square" alt="Teknologi" />
     </td>
   </tr>
 </table>
@@ -103,9 +103,10 @@ I enjoy turning real-world needs into clean, reliable web applications, from dat
 
 ## 📊 GitHub Stats
 
+<!-- Kartu di bawah dibuat otomatis oleh workflow .github/workflows/profile-cards.yml -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmdrifqi16&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&locale=en" height="165" alt="GitHub stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdrifqi16&layout=compact&langs_count=6&card_width=320&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&locale=en" height="165" alt="Top languages graph" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats graph" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages graph" />
 </div>
 
 <br />
