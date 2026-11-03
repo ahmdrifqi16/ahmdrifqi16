@@ -123,7 +123,7 @@ I enjoy turning real-world needs into clean, reliable web applications, from dat
 <div align="center">
   <a href="mailto:kikirifqi331@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/ahmdrifqi16/"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/@ahmdrifqi16/"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@ahmdrifqi16"><img src="https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
   <a href="https://www.facebook.com/share/1AnxwC4Fux/"><img src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
 </div>
