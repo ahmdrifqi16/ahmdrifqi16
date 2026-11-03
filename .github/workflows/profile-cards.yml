@@ -1,1 +1,30 @@
+# Membuat kartu GitHub Stats dan Top Languages sebagai file SVG di repository ini,
+# jadi tidak lagi bergantung pada server pihak ketiga yang sering down.
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # setiap hari, 00:00 UTC
+  workflow_dispatch:       # bisa dijalankan manual dari tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-cards
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Default memakai token bawaan GitHub.
+          # Kalau ada kartu yang tidak terbentuk, ganti dengan token pribadi:
+          # GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"   # ganti ke "master" jika branch utama repo-mu bernama master
+          UTC_OFFSET: 7         # WIB
 
