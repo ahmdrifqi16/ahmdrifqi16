@@ -67,10 +67,10 @@ I enjoy turning real-world needs into clean, reliable web applications, from dat
 
 <br />
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 
 <!-- GANTI: isi nama repo, deskripsi, dan teknologi untuk tiap proyek. Hapus <td> yang tidak dipakai. -->
-<div align="center">
+<!--<div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -97,7 +97,7 @@ I enjoy turning real-world needs into clean, reliable web applications, from dat
     </td>
   </tr>
 </table>
-</div>
+</div> -->
 
 <br />
 
